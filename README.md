@@ -1,4 +1,4 @@
-This is a single page application containing a signup form for a service. It creates POST requests against a dummy API: https://reqres.in/api/users
+This is a single page application in Typescript, JS, HTML containing a signup form for a service. It creates POST requests against a dummy API: https://reqres.in/api/users
 
 To run this Project you will need to have Node.js v14.17.5 or later installed https://nodejs.org/en/
 
