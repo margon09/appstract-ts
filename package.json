@@ -5,6 +5,7 @@
 	"scripts": {
 		"test": "cypress open",
 		"start": "npx webpack serve",
+		"postinstall": "tsc",
 		"build": "webpack --mode production"
 	},
 	"keywords": [],
